@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GartnerAssignment": {
+      "commandName": "Project",
+      "commandLineArgs": "capterra.yaml softwareadvice.json"
+    }
+  }
+}
